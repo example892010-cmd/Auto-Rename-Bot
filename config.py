@@ -42,7 +42,7 @@ Use These Keywords To Setup Custom File Name
 ✓ episode :- To Replace Episode Number
 ✓ quality :- To Replace Video Resolution
 
-<b>➻ Example :</b> <code> /autorename Naruto Shippuden S02 - EPepisode - quality  [Dual Audio] - @Madflix_Bots </code>
+<b>➻ Example :</b> <code> /autorename Naruto Shippuden S02 - EPepisode - quality  [Dual Audio] - @ANIFLIXANIMETAMIL </code>
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
@@ -51,9 +51,7 @@ Use These Keywords To Setup Custom File Name
 📚 Library : Pyrogram 2.0
 🚀 Server : Railway
 📢 Channel : @ANIFLIXANIMETAMIL
-🧑‍💻 Developer : TANJIRO
-
-♻️ Bot Made By : @TANJIROKAMADO404"""
+🧑‍💻 Developer : @TANJIROKAMADO404"""
 
 
 
@@ -65,9 +63,9 @@ Use These Keywords To Setup Custom File Name
 ⦿ /viewthumb - Use This Command To See Your Thumbnail
 ⦿ /delthumb - Use This Command To Delete Your Thumbnail"""
 
-    CAPTION_TXT = """<b><u>📝  HOW TO SET CAPTION</u></b>
+    CAPTION_TXT = """<b><u>📝  HOW TO SET CAPTION</u></b>
     
-⦿ /set_caption - Use This Command To Set Your Caption
+⦿ /set_caption - Use This Command To Set Your Caption
 ⦿ /see_caption - Use This Command To See Your Caption
 ⦿ /del_caption - Use This Command To Delete Your Caption"""
 
@@ -87,13 +85,3 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
     HELP_TXT = """<b>Hey</b> {}
     
 Here Is The Help For My Commands."""
-
-
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
-
