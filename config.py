@@ -25,17 +25,15 @@ class Config(object):
 class Txt(object):
     # part of text configuration
         
-    START_TXT = """Hello {} 
-    
-➻ This Is An Advanced And Yet Powerful Rename Bot.
-    
-➻ Using This Bot You Can Auto Rename Of Your Files.
-    
-➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
-    
-➻ Use /tutorial Command To Know How To Use Me.
-    
-<b>Bot Is Made By @Madflix_Bots</b>"""
+    START_TXT = """👋 Hello {first_name}!
+
+➻ Advanced Auto Rename Bot
+➻ Custom Thumbnail & Caption
+➻ Use /tutorial To Get Started
+
+⚡ Powered By @ANIFLIXANIMETAMIL
+👨‍💻 Developer: @TANJIROKAMADO404"""
+
     
     FILE_NAME_TXT = """<b><u>SETUP AUTO RENAME FORMAT</u></b>
 
@@ -48,14 +46,16 @@ Use These Keywords To Setup Custom File Name
 
 <b>➻ Your Current Auto Rename Format :</b> <code>{format_template}</code> """
     
-    ABOUT_TXT = f"""<b>🤖 My Name :</b> <a href='https://t.me/AutoRenameXBot'>Auto Rename Bot ⚡</a>
-<b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
-<b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
-<b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
-    
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+    ABOUT_TXT = """🤖 My Name : ANIFLIX RENAME BOT ⚡
+📝 Language : Python 3
+📚 Library : Pyrogram 2.0
+🚀 Server : Railway
+📢 Channel : @ANIFLIXANIMETAMIL
+🧑‍💻 Developer : TANJIRO
+
+♻️ Bot Made By : @TANJIROKAMADO404"""
+
+
 
     
     THUMBNAIL_TXT = """<b><u>🖼️  HOW TO SET THUMBNAIL</u></b>
