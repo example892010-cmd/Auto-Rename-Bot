@@ -7,7 +7,7 @@
 <p align="center">🩵 Thanks for Being Here 🩵</p>
 
 
-### CONFIGS VARIABLES
+###CONFIGS VARIABLES
 
 * `BOT_TOKEN` - Get bot token from @BotFather
 * `API_ID` - From my.telegram.org
